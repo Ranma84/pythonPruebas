@@ -13,3 +13,6 @@ Un Diccionario es una estructura de datos y un tipo de dato en Python con caract
 Las listas son una estructura de datos muy flexible. Python permite manipular listas de muchas maneras. En esta lección aprenderás algunas de ellas:
 
 Las listas son conjuntos ordenados de elementos (números, cadenas, listas, etc). Las listas se delimitan por corchetes ([ ]) y los elementos se separan por comas.
+
+## Archivo Clases
+Una clase (en programación) es una agrupación de datos (variables o campos) y de funciones (métodos) que operan sobre esos datos. A estos datos y funciones pertenecientes a una clase se les denominan variables y métodos o funciones miembro. La Programación Orientada a Objetos se basa en la programación de clases.
