@@ -1,4 +1,4 @@
-# pythonPruebas
+# PythonPruebas
 Archivos de Python para pruebas
 
 ## Archivo tuplas
